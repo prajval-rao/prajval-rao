@@ -24,6 +24,7 @@ Currently, I'm exploring different areas of computer science through projects, c
 ![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-cyan?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 #
 
